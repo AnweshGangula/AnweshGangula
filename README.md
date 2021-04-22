@@ -17,7 +17,7 @@ I'm Anwesh Gangula. My core interests are **Data, Automation & Technology**. And
 - https://anweshgangula.github.io/threejs-101
   - Additional Page: [Light & Reflection](https://anweshgangula.github.io/threejs-101/Light%20&%20Reflection/)
   - Source: [Threejs-101](https://github.com/AnweshGangula/threejs-101)
-- https://city-of-code-github.glitch.me/
+- https://anweshgangula.github.io/Steering-Behaviour/
   - Source: [Steering Behaviours](https://github.com/AnweshGangula/Steering-Behaviour)
 
 <!--
