@@ -20,6 +20,8 @@ I'm Anwesh Gangula. My core interests are **Data, Automation & Technology**. And
 - https://anweshgangula.github.io/Steering-Behaviour/
   - Source: [Steering Behaviours](https://github.com/AnweshGangula/Steering-Behaviour)
 
+**List of All Projects**: https://github.com/AnweshGangula?tab=repositories
+
 <!--
 **AnweshGangula/AnweshGangula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
