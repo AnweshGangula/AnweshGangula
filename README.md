@@ -25,6 +25,8 @@ I'm Anwesh Gangula. My core interests are **Data, Automation & Technology**. And
 **List of All Projects**: https://github.com/AnweshGangula?tab=repositories
 
 <!--
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anweshgangula)](https://github.com/AnweshGangula)
+
 **AnweshGangula/AnweshGangula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
