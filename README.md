@@ -8,7 +8,7 @@ I'm Anwesh Gangula. My core interests are **Data, Automation & Technology**. And
 
 ### Project Highlights
 
-- [AnweshGangula.com](https://anweshgangula.com)
+- [AnweshGangula.com][website]
   
 - [City of Code: GitHub](https://city-of-code-github.glitch.me/)
   - Source: [City of Code: GitHub](https://github.com/AnweshGangula/City-of-Code-GitHub)
@@ -24,9 +24,23 @@ I'm Anwesh Gangula. My core interests are **Data, Automation & Technology**. And
 
 **List of All Projects**: https://github.com/AnweshGangula?tab=repositories
 
+### Connect with me:
+
+[<img align="left" alt="anweshgangula.com" width="22px" src="https://anweshgangula.com/Logo.svg" />][website]
+[<img align="left" alt="anweshgangula | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="anweshgangula | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[website]: https://anweshgangula.com
+[twitter]: https://twitter.com/AnweshGangula
+[linkedin]: https://www.linkedin.com/in/AnweshGangula
+
+
 <!--
 [![Anwesh's github stats](https://github-readme-stats.vercel.app/api?username=anweshgangula)](https://github.com/AnweshGangula)
 [![Anwesh's top language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anweshgangula)](https://github.com/AnweshGangula)
+
+inspiration: https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md and https://www.youtube.com/watch?v=ECuqb5Tv9qI
 
 **AnweshGangula/AnweshGangula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
