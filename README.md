@@ -8,21 +8,17 @@ I'm Anwesh Gangula. My core interests are **Data, Automation & Technology**. And
 
 ### Project Highlights
 
-- [AnweshGangula.com][website]
-  
-- [City of Code: GitHub](https://city-of-code-github.glitch.me/)
-  - Source: [City of Code: GitHub](https://github.com/AnweshGangula/City-of-Code-GitHub)
-- [Covid19-India - Dashboard](https://anweshgangula.github.io/Covid19-India)
-  - Source: [Covid19-India](https://github.com/AnweshGangula/Covid19-India) 
-- [Threejs - 101](https://anweshgangula.github.io/threejs-101)
-  - Additional Page: [Light & Reflection](https://anweshgangula.github.io/threejs-101/Light%20&%20Reflection/)
-  - Source: [Threejs-101](https://github.com/AnweshGangula/threejs-101)
-- [Basic Forge](https://anweshgangula.github.io/Basic-Forge/) - Autodesk Forge
-  - Source: [Basic Forge](https://github.com/AnweshGangula/Basic-Forge) 
-- [Creative Coding - Steering Behaviour](https://anweshgangula.github.io/Steering-Behaviour)
-  - Source: [Steering Behaviours](https://github.com/AnweshGangula/Steering-Behaviour)
+Below is a list of notable projects from my [Personal Projects](https://github.com/stars/AnweshGangula/lists/personal-projects):
 
-**List of All Projects**: https://github.com/AnweshGangula?tab=repositories
+| Project                                                                                               	| Source Code                                          	|
+|-------------------------------------------------------------------------------------------------------	|------------------------------------------------------	|
+| [AnweshGangula.com][website]                                                                          	|                                                      	|
+| [City of Code: GitHub](https://city-of-code-github.glitch.me/)                                        	| https://github.com/AnweshGangula/City-of-Code-GitHub 	|
+| [Covid19-IND - Dashboard](https://anweshgangula.github.io/Covid19-India)                              	| https://github.com/AnweshGangula/Covid19-India       	|
+| [Threejs - 101](https://anweshgangula.github.io/threejs-101)                                          	| https://github.com/AnweshGangula/threejs-101         	|
+| [Threejs  - Lights & Reflections](https://anweshgangula.github.io/threejs-101/Light%20&%20Reflection) 	| https://github.com/AnweshGangula/threejs-101         	|
+| [Basic Autodesk Forge](https://anweshgangula.github.io/Basic-Forge/)                                  	| https://github.com/AnweshGangula/Basic-Forge         	|
+| [Steering Behaviour](https://anweshgangula.github.io/Steering-Behaviour)                              	| https://github.com/AnweshGangula/Steering-Behaviour  	|
 
 ### Connect with me:
 
