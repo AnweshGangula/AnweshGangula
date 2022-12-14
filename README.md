@@ -13,7 +13,7 @@ Below is a list of notable projects from my [Personal Projects](https://github.c
 | Project                                                                                              | Source Code                                          |
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | [AnweshGangula.com][website]                                                                         |                                                      |
-| [City of Code: GitHub](https://city-of-code-github.glitch.me/)                                       | https://github.com/AnweshGangula/City-of-Code-GitHub |
+| [City of Code: GitHub](https://anweshgangula.github.io/City-of-Code-GitHub/dist/)                    | https://github.com/AnweshGangula/City-of-Code-GitHub |
 | [Covid19-IND - Dashboard](https://anweshgangula.github.io/Covid19-India)                             | https://github.com/AnweshGangula/Covid19-India       |
 | [Threejs - 101](https://anweshgangula.github.io/threejs-101)                                         | https://github.com/AnweshGangula/threejs-101         |
 | [Threejs - Lights & Reflections](https://anweshgangula.github.io/threejs-101/Light%20&%20Reflection) | https://github.com/AnweshGangula/threejs-101         |
