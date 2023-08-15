@@ -3,8 +3,8 @@
 I'm Anwesh Gangula. My core interests are **Data, Automation & Technology**. And being an Architect, I have an educational background and personal interest in the world of 3D. This has led me into exploring various 3D Technologies like [Three.JS](https://threejs.org/), [Autodesk Forge](https://forge.autodesk.com/) etc...
 
 - 🌱 I’m currently learning Web Development (React.js), Data Analyitics & Visualization (_D3.js, Python_) , 3D in Web + AR/VR (_Three.js, WebGL, WebGPU_)
-- 💬 Ask me about Excel, PowerBI & Power Platform, Autodesk Revit, Navisworks...
-- 💖 My other interests include - Creative Coding (_p5js_), Graphic Design & VFX (_Blender, Houdini_)
+- 💬 Ask me about Three.js, Autodesk Revit & Forge (_Autodesk Platform Services_), Digital Twin, Metaverse, Tools for Thought...
+- 💖 My other interests include - Creative Coding (_p5js_), Graphic Design & VFX (_Blender, Houdini_), Personal Knowledge Management
 
 ### Project Highlights
 
